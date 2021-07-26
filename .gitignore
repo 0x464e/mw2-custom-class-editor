@@ -1,0 +1,6 @@
+*.vs
+*~
+*.swp
+Custom Class Editor/obj/*
+Custom Class Editor/bin/*
+!Custom Class Editor/bin/*.dll
